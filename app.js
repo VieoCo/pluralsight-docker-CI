@@ -1,5 +1,5 @@
 // Sample node.js web app for Pluralsight Docker CI course
-// For demonstration purposes only
+// For demonstration purposes only. Not for serious work.
 'use strict';
 
 var express = require('express'),
