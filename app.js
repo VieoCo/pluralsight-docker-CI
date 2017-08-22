@@ -1,5 +1,5 @@
 // Sample node.js web app for Pluralsight Docker CI course
-// For demonstration purposes only. >> Final final Auto-CI to Docker test!
+// For demonstration purposes only. >> Testing Auto-CI to Docker with single quotes.
 'use strict';
 
 var express = require('express'),
