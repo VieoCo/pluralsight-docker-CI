@@ -2,7 +2,7 @@
 # it is explicitly included in module 5
 
 deployment:
-  dockerhub:
+  dockercloud:
     branch: master
     commands:
       - $DOCKER_CLOUD_TRIGGER
